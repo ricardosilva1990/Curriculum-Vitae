@@ -358,6 +358,9 @@ p {
   box-shadow: 0 1px 6px rgba(0, 0, 0, 0.175);
 }
 
+.timeline > li > .siemens {
+  background-color:#eaf9f9
+}
 .timeline > li > .ascendi {
   background-color:#d6eefa
 }
