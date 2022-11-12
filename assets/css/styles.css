@@ -358,6 +358,9 @@ p {
   box-shadow: 0 1px 6px rgba(0, 0, 0, 0.175);
 }
 
+.timeline > li > .outsystems {
+  background-color:#ffa799
+}
 .timeline > li > .siemens {
   background-color:#eaf9f9
 }
@@ -366,9 +369,6 @@ p {
 }
 .timeline > li > .everis {
   background-color:#f0fd9b
-}
-.timeline > li > .bpi {
-  background-color:#face9e
 }
 
 .timeline > li.timeline-inverted + li:not(.timeline-inverted),
